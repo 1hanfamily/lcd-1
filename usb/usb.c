@@ -3,4 +3,5 @@
 void usb_init()
 {
 	printf("usb init\n");
+	printf("%s",USB);
 }
