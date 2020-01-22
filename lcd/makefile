@@ -1,0 +1,2 @@
+BIN=
+include ../commit.mk
