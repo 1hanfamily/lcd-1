@@ -1,4 +1,5 @@
 .PHONY:all clean
+export root_dir = $(shell pwd)
 SUB_DIR =usb  lcd  media  player
 all:
 	for i in $(SUB_DIR);\
